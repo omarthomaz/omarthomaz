@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Omar Thomaz 😁
+## Bem-vindo(a) ao perfil do Dev em Dobro 😁
 
  <div>
    <a href="https://github.com/omarthomaz">
@@ -20,6 +20,6 @@
   <a href="https://instagram.com/omar.thomaz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/omar-thomaz-365a90247" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/omarthomaz/omarthomaz/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
 
 </div>
